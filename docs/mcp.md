@@ -35,6 +35,7 @@ Open **Settings → Connect apps**.
 Step-by-step client guides:
 
 - [Claude Desktop](mcp-clients/claude-desktop.md) — config location, restart, verifying the tools appear
+- [VS Code](mcp-clients/vscode.md) — one-click connection, user configuration, and Copilot Chat tool verification
 - [LM Studio](mcp-clients/lm-studio.md) — local model setup, MCP configuration, and tool-call verification
 
 ### Copy JSON (any other MCP app)
