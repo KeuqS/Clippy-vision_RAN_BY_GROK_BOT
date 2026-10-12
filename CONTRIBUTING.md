@@ -61,7 +61,7 @@ This isn't mandatory for every issue, quick bug reports don't need the full temp
 
 ## Development Setup
 
-Clippy Vision supports Windows and macOS. Linux support is experimental: X11 capture can use `xdotool`, clipboard support uses `wl-paste`, `xclip` or `xsel`, and `grim` is optional for wlroots. Native Wayland screenshots are skipped for now, and there are no Linux installers in a release yet. The app lives in `electron-ui/` and starts the Python API for you.
+Clippy Vision supports Windows and macOS. Linux support is experimental: X11 capture can use `xdotool`, clipboard support uses `wl-paste`, `xclip` or `xsel`, and `grim` is optional for wlroots. Native Wayland screenshots are skipped for now; releases include an unsigned Linux AppImage, but there is no signed Linux installer yet. The app lives in `electron-ui/` and starts the Python API for you.
 
 1. Fork the repository
 2. Clone your fork:
